@@ -225,21 +225,3 @@ if __name__ == '__main__':
 	plt.ylabel('Funcion Aptitud')
 	plt.title('Algoritmo de la colonia de hormigas')
 	plt.ioff(); plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

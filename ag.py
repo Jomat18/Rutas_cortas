@@ -292,7 +292,6 @@ def algoritmo_g(size,iteraciones,inicio,final,n_escalada,n_hijos):
 		print pob[i],"Costo: ",fitness(pob[i])	 	
 	
 
-
 if __name__ == '__main__':
 	pc=0.5
 	pm=0.3
@@ -304,20 +303,3 @@ if __name__ == '__main__':
 	n_hijos=1
 	algoritmo_g(size,iteraciones,inicio,final,n_escalada,n_hijos)
 	plt.ioff(); plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
